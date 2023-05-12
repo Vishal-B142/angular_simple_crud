@@ -1,0 +1,38 @@
+{
+  "employee": [
+    {
+      "firstName": "subash mbbb",
+      "lastName": "sssssssssssss",
+      "email": "fsadghfgjkl",
+      "mobile": "4444",
+      "salary": "1021",
+      "id": 5
+    },
+    {
+      "firstName": "sssss",
+      "lastName": "kk",
+      "email": "owner@gmail.com",
+      "mobile": "owner@gmail.com",
+      "salary": "owner@gmail.com",
+      "id": 6
+    },
+    {
+      "firstName": "kiran ",
+      "lastName": "kumar",
+      "email": "kiran@gmail.com",
+      "mobile": "7022828565",
+      "salary": "45000",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
